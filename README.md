@@ -14,8 +14,7 @@ Mirror Camera
 
 <h3>Why Do I Need It?</h3>
 
-MirrorCam was created out of the necessity to have a nice mirror camera app, is based on the simpleCam (https://github.com/LoganWright/SimpleCam) app but this one is estrictly used on Portrait to avoid rotation issues on iOS8 and basically is a clone for the Mirror app found here: https://itunes.apple.com/us/app/mirror-takeselfie-
-put-on/id379516970?mt=8
+MirrorCam was created out of the necessity to have a nice mirror camera app, is based on some similar apps but this one is estrictly used on Portrait to avoid rotation issues on iOS8 and basically is a clone for the Mirror app found here: https://itunes.apple.com/us/app/mirror-takeselfie-put-on/id379516970?mt=8
 
 Hope you find this app project example funny and useful, please comment or pull requests to make improvements!
 
